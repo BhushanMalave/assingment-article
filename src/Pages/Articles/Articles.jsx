@@ -3,7 +3,7 @@ import PullToRefresh from "react-pull-to-refresh";
 import { useLocation, useNavigate } from "react-router-dom";
 import homePage from "../../services/homePage.json";
 import articlejson from "../../services/article.json";
-import "../Articles/Articles.css";
+import "./Articles.css";
 
 
 // Helper to get unique values
