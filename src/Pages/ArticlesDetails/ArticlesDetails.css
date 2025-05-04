@@ -1,0 +1,90 @@
+/* Articles.css */
+
+.article-detail {
+    max-width: 50rem;
+    margin: 2.5rem auto;
+    padding: 1.5rem;
+    background-color: #ffffff;
+    border-radius: 0.75rem;
+    box-shadow: 0 0.25rem 1.25rem rgba(0, 0, 0, 0.08);
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  .article-detail h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #1a1a1a;
+  }
+  
+  .article-detail img {
+    width: 100%;
+    max-height: 25rem;
+    object-fit: cover;
+    border-radius: 0.625rem;
+    margin: 1.25rem 0;
+  }
+  
+  .article-detail p {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    color: #444;
+  }
+  
+  .article-detail .tags {
+    margin: 1.25rem 0;
+    font-size: 0.95rem;
+    font-weight: 500;
+  }
+  
+  .article-detail .tags span {
+    display: inline-block;
+    background-color: #f0f0f5;
+    color: #0056b3;
+    padding: 0.375rem 0.75rem;
+    margin: 0.375rem 0.5rem 0 0;
+    border-radius: 1.25rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .article-detail .tags span:hover {
+    background-color: #dce8ff;
+  }
+  
+  .author_bio {
+    margin-top: 2.5rem;
+    border-top: 0.0625rem solid #e0e0e0;
+    padding-top: 1.25rem;
+  }
+  
+  .author h4 {
+    font-size: 1.25rem;
+    margin-bottom: 0.75rem;
+    color: #222;
+  }
+  
+  .author img {
+    border-radius: 50%;
+    width: 3.75rem;
+    height: 3.75rem;
+    object-fit: cover;
+    margin-bottom: 0.625rem;
+  }
+  
+  .author_name {
+    font-weight: bold;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .author p {
+    font-size: 0.95rem;
+    color: #555;
+  }
+  
+  img.author_image {
+    width: 7.5rem;
+  }
+  

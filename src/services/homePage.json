@@ -1,0 +1,90 @@
+{
+  "status": 1,
+  "message": "success",
+  "data": {
+    "page": 1,
+    "categoryId": null,
+    "tag": "technology",
+    "authorName": "Anonymous",
+    "articles": [
+      {
+        "id": 1,
+        "title": "Rocket Artistry",
+        "subtitle": "A creative depiction of a rocket drawn on a cargo container.",
+        "hero": "https://images.pexels.com/photos/163811/street-art-shipping-container-freight-highway-163811.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "authorName": "Navneet Shanu",
+        "articleId": "article 1",
+        "categoryName": "Type 1",
+        "articleType": "Text",
+        "categoryId": "r4wd2u8",
+        "authorId": "#article-2025-0001",
+        "tags": ["Art", "Technology"]
+      },
+      {
+        "id": 2,
+        "title": "Bright Ideas",
+        "subtitle": "A glowing bulb symbolizing the spark of innovation and thinking.",
+        "hero": "https://images.pexels.com/photos/355952/pexels-photo-355952.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "authorName": "Alessio Ivanshov",
+        "articleId": "article 2",
+        "categoryName": "Type 2",
+        "articleType": "Audio",
+        "categoryId": "r4wd2u8",
+        "authorId": "#article-2025-0002",
+        "tags": ["Technology", "Art"]
+      },
+      {
+        "id": 3,
+        "title": "Celestial Observations",
+        "subtitle": "A telescope capturing the wonders of the universe.",
+        "hero": "https://images.pexels.com/photos/256262/pexels-photo-256262.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "authorName": "Amelia Margaret",
+        "articleId": "article 3",
+        "categoryName": "Type 3",
+        "articleType": "Text",
+        "categoryId": "r4wd2u8",
+        "authorId": "#article-2025-0003",
+        "tags": ["Science", "Technology"]
+      },
+      {
+        "id": 4,
+        "title": "Mountain Retreat",
+        "subtitle": "A serene house nestled in the heart of nature and mountains.",
+        "hero": "https://images.pexels.com/photos/147411/italy-mountains-dawn-daybreak-147411.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "authorName": "Mr. Darcy",
+        "articleId": "article 4",
+        "categoryName": "Type 1",
+        "articleType": "Video",
+        "categoryId": "r4wd2u8",
+        "authorId": "#article-2025-0004",
+        "tags": ["Science", "Art"]
+      },
+      {
+        "id": 5,
+        "title": "Code in Action",
+        "subtitle": "A screen displaying JavaScript code in a development environment.",
+        "hero": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "authorName": "Luis Gomes",
+        "articleId": "article 5",
+        "categoryName": "Type 2",
+        "articleType": "Video",
+        "categoryId": "r4wd2u8",
+        "authorId": "#article-2025-0005",
+        "tags": ["Technology", "Science"]
+      },
+      {
+        "id": 6,
+        "title": "Virtual Reality Explorer",
+        "subtitle": "A girl immersed in a virtual world wearing VR glasses.",
+        "hero": "https://images.pexels.com/photos/123335/pexels-photo-123335.jpeg",
+        "authorName": "Bradley Hook",
+        "articleId": "article 6",
+        "categoryName": "Type 3",
+        "articleType": "Audio",
+        "categoryId": "r4wd2u8",
+        "authorId": "#article-2025-0006",
+        "tags": ["Science", "Technology"]
+      }
+    ]
+  }
+}

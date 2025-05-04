@@ -1,0 +1,108 @@
+{
+  "status": 1,
+  "message": "success",
+  "data": [
+    {
+      "id": 1,
+      "articleId": "article 1",
+      "title": "Rocket Artistry",
+      "subtitle": "A creative depiction of a rocket drawn on a cargo container.",
+      "hero": "https://images.pexels.com/photos/163811/street-art-shipping-container-freight-highway-163811.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "description": "An artistic representation of a rocket painted on a cargo container, showcasing creativity and industrial charm. This artwork blends the ruggedness of industrial design with the imagination of space exploration. It serves as a reminder of how art can transform everyday objects into something extraordinary.",
+      "tags": ["Art", "Technology"],
+      "author": {
+        "authorId": "#article-2025-0001",
+        "authorName": "Navneet Shanu"
+      },
+      "category": {
+        "categoryName": "Technology"
+      },
+      "published": "2025-05-12 22:05"
+    },
+    {
+      "id": 2,
+      "articleId": "article 2",
+      "title": "Bright Ideas",
+      "subtitle": "A glowing bulb symbolizing the spark of innovation and thinking.",
+      "hero": "https://images.pexels.com/photos/355952/pexels-photo-355952.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "A glowing light bulb that represents the power of innovation, creativity, and the spark of new ideas. This image captures the essence of problem-solving and the birth of groundbreaking concepts. It inspires viewers to think outside the box and embrace their creative potential.",
+      "tags": ["Technology", "Art"],
+      "author": {
+        "authorId": "#article-2025-0002",
+        "authorName": "Alessio Ivanshov"
+      },
+      "category": {
+        "categoryName": "Technology"
+      },
+      "published": "2025-05-12 22:05"
+    },
+    {
+      "id": 3,
+      "articleId": "article 3",
+      "title": "Celestial Observations",
+      "subtitle": "A telescope capturing the wonders of the universe.",
+      "hero": "https://images.pexels.com/photos/256262/pexels-photo-256262.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "A telescope pointed at the night sky, exploring the mysteries of the universe and the beauty of celestial bodies. This image evokes curiosity about the cosmos and the endless possibilities of space exploration. It reminds us of humanity's quest to understand the universe.",
+      "tags": ["Science", "Technology"],
+      "author": {
+        "authorId": "#article-2025-0003",
+        "authorName": "Amelia Margaret"
+      },
+      "category": {
+        "categoryName": "Technology"
+      },
+      "published": "2025-05-12 22:05"
+    },
+    {
+      "id": 4,
+      "articleId": "article 4",
+      "title": "Mountain Retreat",
+      "subtitle": "A serene house nestled in the heart of nature and mountains.",
+      "hero": "https://images.pexels.com/photos/147411/italy-mountains-dawn-daybreak-147411.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "A peaceful house surrounded by lush greenery and majestic mountains, offering a perfect retreat into nature. This image captures the tranquility of living amidst nature's beauty. It inspires a sense of calm and the desire to escape the hustle of city life.",
+      "tags": ["Science", "Art"],
+      "author": {
+        "authorId": "#article-2025-0004",
+        "authorName": "Mr. Darcy"
+      },
+      "category": {
+        "categoryName": "Technology"
+      },
+      "published": "2025-05-12 22:05"
+    },
+    {
+      "id": 5,
+      "articleId": "article 5",
+      "title": "Code in Action",
+      "subtitle": "A screen displaying JavaScript code in a development environment.",
+      "hero": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "A developer's screen showcasing JavaScript code in action, representing the dynamic world of programming. This image highlights the creativity and problem-solving skills involved in software development. It serves as a tribute to the developers shaping the digital world.",
+      "tags": ["Technology", "Science"],
+      "author": {
+        "authorId": "#article-2025-0005",
+        "authorName": "Luis Gomes"
+      },
+      "category": {
+        "categoryName": "Technology"
+      },
+      "published": "2025-05-12 22:05"
+    },
+    {
+      "id": 6,
+      "articleId": "article 6",
+      "title": "Virtual Reality Explorer",
+      "subtitle": "A girl immersed in a virtual world wearing VR glasses.",
+      "hero": "https://images.pexels.com/photos/123335/pexels-photo-123335.jpeg",
+      "description": "A young girl exploring a virtual reality world, fully immersed in the experience with VR glasses. This image captures the excitement and potential of VR technology. It showcases how virtual reality can transport users to entirely new dimensions.",
+      "tags": ["Science", "Technology"],
+      "author": {
+        "authorId": "#article-2025-0006",
+        "authorName": "Bradley Hook"
+      },
+      "category": {
+        "categoryName": "Technology"
+      },
+      "published": "2025-05-12 22:05"
+    }
+  ]
+}
